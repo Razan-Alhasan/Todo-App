@@ -1,0 +1,21 @@
+input{
+    display:inline-block;
+    background-color: rgb(247, 141, 190);
+    margin:0px;
+    padding: 10px 5px;
+    text-transform: capitalize;
+    box-sizing: border-box;
+}
+.btn{
+    font-weight: bold;
+    background-color: rgb(196, 74, 131);
+}
+#name{
+    width: 60%;
+}
+#age{
+    width: 25%;
+}
+#action{
+    width: 15%;
+}

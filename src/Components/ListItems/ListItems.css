@@ -1,0 +1,31 @@
+.todolist{
+    background-color: rgb(247, 141, 190);
+    border:2px solid black
+}
+.title{
+    background-color: rgb(196, 74, 131);
+    font-weight: bold;
+    font-size: 23px;
+}
+P{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+span{
+    display:inline-block;
+    text-align: center;
+    padding: 10px 0;
+    border:0.5px solid rgb(9, 9, 9);
+    box-sizing: border-box;
+}
+span.name {
+    width: 60%;
+    text-transform: capitalize;
+}
+span.age {
+    width: 25%;
+}
+span.action{
+    width: 15%;
+}
